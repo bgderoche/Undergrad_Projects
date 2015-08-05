@@ -1,0 +1,8 @@
+ASSIGNMENT: CALCULATING CHANGE
+
+
+Write a program that calculates the number of quarters, nickels, dimes, 
+and pennies to give back to a person for X cents of change. Maximize the
+number of higher value coins given. For example, if the change to be given 
+is $0.68, then you want to give 2 quarters, 1 dime, 1 nickel, and 3 pennies.
+
