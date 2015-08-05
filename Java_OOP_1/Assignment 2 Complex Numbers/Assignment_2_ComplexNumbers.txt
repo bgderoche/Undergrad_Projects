@@ -1,0 +1,12 @@
+ASSIGNMENT 2: COMPLEX NUMBERS
+
+Write a class that defines an object for a complex number. 
+Your class will have a constructor that accpets two floats
+as input arguments. The two floats will represent the a and
+b parts of the complex number. 
+
+Write a tester program to test your complex number class. It
+will be a class with a single main method in it. In that main
+method, you will create complex number objects, add, subtract,
+multiply, and divide them, printing what you are doing and the
+results as you do it.
