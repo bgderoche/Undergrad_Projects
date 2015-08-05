@@ -1,0 +1,20 @@
+ASSIGNMENT: Create a n-sided Die
+
+Write a class to model a n-sided die. The die will have two properties:
+	1. The number of sides of the die
+	2. The value of the last roll of the die
+For example, the die could have 6 sides, and after the die is rolled that 
+value will be saved in an instance variable for the last roll. The constructor
+will accept a parameter specifying the number of sides. There will be a command
+to roll the die, a query to return the value last rolled, and a toString query 
+to print the state of the die. 
+
+When you roll the die, I want the roll to be "random." To generate a pseudo-random
+number between 0-9, see the following code:
+
+	import java.util.Random;
+	
+	...
+
+	Random gen = new Random();
+	int number = gen.nextInt(10);
