@@ -1,0 +1,13 @@
+ASSIGNMENT 5: A die-game, Pig!
+
+We are going to write our first game! It will be a simple dice game: Pig.
+You'll write the classes to model the players, the game, and a user interface. 
+You'll also need a short class with a main method to start the game. 
+
+About the game: The game goes as follows. There are two players who take turns
+playing. For each player's turn the player can roll a single 6-sided die as 
+many times as he/she likes. Points are earned as follows: If the die is between
+2 and 6, the player adds the value of the die to tally of points for that turn.
+AAt any time during his/her turn, the player can decide to keep his/her points.
+The points will be added to that player's total score for the game, and it will
+become the next player's turn. The first player to reach 100 points wins. 
